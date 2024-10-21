@@ -1,0 +1,34 @@
+h1{
+    background-color: edf;
+    width: 50%;
+    height: 50px;
+    font-family: calibri;
+    text-align: center;
+    margin: auto;
+    border:5px solid #9de;
+    border-radius: 10px;
+    padding-top: 9;
+    
+}
+h2{
+    background-color: #ccc;
+    border: #aaa solid 5px;
+    height: 30px;
+    width: 40%;
+    border-radius: 30px;
+
+
+}
+.sexo1{
+    background-color: #dfe;
+    color:#111;
+    text-align: justify;
+width: 50%;
+height: 70px;
+border-left: 5px solid #cec;
+border-top: 10px solid #aaa;
+border-bottom-right-radius: 20px;
+border-right: 20px solid #aaa;
+
+}
+
